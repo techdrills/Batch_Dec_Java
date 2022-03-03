@@ -17,6 +17,13 @@ public class data_types {
 		int age = 22;
 		String Address = "abc area";
 		
+		char value = '3';
+		String valu = "3";
+		
+		
+		int val = 3;
+		String blood_group = "0";
+		
 		System.out.println(myname);
 		System.out.println(age);
 		System.out.println(Address);
