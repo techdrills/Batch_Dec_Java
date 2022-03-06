@@ -1,9 +1,9 @@
 package Basic_Java;
 
-public class data_types {
+public class data_types extends String_Functions {
 	
 	public static void main(String[] args) {
-		
+	
 //		characters, long chars, image, files, true, false, float, string, mobile, dob, postal pin, amount
 //		
 //		RS 500000 - 2000 (small locker)
