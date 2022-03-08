@@ -16,6 +16,11 @@ public class get_data1 extends common_class {
 	
 	
 	
+	public String myfunction() 
+	{
+		String name = "adbf";
+		return name;
+	}
 	
 	// this is method/function without parameter
 	static void add() {
